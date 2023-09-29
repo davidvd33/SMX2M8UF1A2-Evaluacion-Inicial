@@ -19,7 +19,7 @@ Una aplicación web es un software que se ejecuta en un navegador web, podemos a
 
 Son programas, que solemos usar para trabajar en una oficina, como por ejemplo, power point, word, acces...
 
-[5. ### Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Descubre las herramientas de google")
+5. ### [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Descubre las herramientas de google")
 
 | Aplicaciones | Visto |
 |:----------:|:----------:|
@@ -30,7 +30,7 @@ Son programas, que solemos usar para trabajar en una oficina, como por ejemplo, 
 | Goole Meet | 💻 |
 | ... | ... |
 
-5. ### ¿Que es HTML?
+6. ### ¿Que es HTML?
 
 Es un lenguaje de programación muy popular, que se suele usar para programar páginas web, se suele combinar con otros lenguajes de programación "como CSS", para así poder añadir más funcionalidades a las páginas webs.
 
@@ -49,8 +49,10 @@ Es un lenguaje de programación muy popular, que se suele usar para programar p�
 </html>
 ```
 
-6. ### ¿Qué es CSS?
+7. ### ¿Qué es CSS?
 
 Las siglas vienen de "Cascading Style Sheets" Hojas de Estilo en Cascada, es un lenguaje de programación que usamos para controlar la presentación y el diseño de las páginas web. Como he dicho anteriormente, lo solemos usar junto ha HTML
 
-7. ### Flujo de trabajo (navegador, petición, servidor y respuesta):
+8. ### Flujo de trabajo (navegador, petición, servidor y respuesta):
+ 
+ ![Flujo de Trabajo](https://github.com/davidvd33/SMX2M8UF1A2-Evaluacion-Inicial/blob/main/Captura%20de%20pantalla%202023-09-29%20155911.jpg)
