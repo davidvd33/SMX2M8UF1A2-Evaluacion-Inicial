@@ -1,5 +1,5 @@
 # SMX2M8UF1A2-Evaluacion-Inicial
-##Evaluación Inicial
+## Evaluación Inicial
 
 1. ### ¿Qué es una página web?
 
@@ -53,6 +53,6 @@ Es un lenguaje de programación muy popular, que se suele usar para programar p�
 
 Las siglas vienen de "Cascading Style Sheets" Hojas de Estilo en Cascada, es un lenguaje de programación que usamos para controlar la presentación y el diseño de las páginas web. Como he dicho anteriormente, lo solemos usar junto ha HTML
 
-8. ### Flujo de trabajo (navegador, petición, servidor y respuesta):
+8. ###  Flujo de trabajo (navegador, petición, servidor y respuesta):
  
  ![Flujo de Trabajo](https://github.com/davidvd33/SMX2M8UF1A2-Evaluacion-Inicial/blob/main/Captura%20de%20pantalla%202023-09-29%20155911.jpg)
