@@ -16,7 +16,7 @@ Un sitio web es un conjunto de páginas webs relacionadas entre sí y accesibles
 
 4. ### ¿Qué es una herramienta ofimática?
 
-<Son programas, que solemos usar para trabajar en una oficina, como por ejemplo, power point, word, acces... 
+Son programas, que solemos usar para trabajar en una oficina, como por ejemplo, power point, word, acces... 
 
 5. ### [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Descubre las herramientas de google")
 
